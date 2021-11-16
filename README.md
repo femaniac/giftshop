@@ -8,6 +8,9 @@ Technologies that I used:
 - Library: jQuery
 - CSS Framework: Bootstrap
 
+Tools that I used to design the logo:
+- Adobe Photoshop & Illustrator
+
 Website published at: https://femaniac.github.io/giftshop.project/
 
 Thank you for your visit.
