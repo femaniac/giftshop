@@ -1,4 +1,4 @@
-# Gift Shop | E-Commerce Website
+# Gift Shop | E-Commerce Web App
 This is my first personal website project.
 
 Gift Shop is an ecommerce website which is built for online shopping. Users can visit the website, learn more information such as: event, promotions and item details and also allow them to filter by item categories and brand. Moreover, users are able to compare products with different brands before they decide to buy items.
